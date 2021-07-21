@@ -1,8 +1,8 @@
-> **ROLES GROUPS MANAGEMENT > ROLE GROUP **
+**ROLES GROUPS MANAGEMENT > ROLE GROUP **
   * D1 Leaders
   * All Leaders of Department 1 
 
-> **Members**  
+**Members**  
   
 &#9673;Member Select &nbsp;&nbsp;&#9675; Everyone  
 *Below only in Member Select mode*  
