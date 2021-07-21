@@ -5,5 +5,5 @@
 
 | NAME | DESCRIPTION | MEMBERS | ACCESS CONTROLS |  |
 | ---- | ---- | ---- | ---- | ---- |
-| D1 Leaders | XXXXX | 10 members | [Access Controls](2.edit.md) | [[remove]]() |
-| D1 PMs | XXXXX | 3 members | [Access Controls](2.edit.md) | [[remove]]() |
+| D1 Leaders | XXXXX | 3 members | [Access Controls](2.edit.md) | [[remove]]() |
+| D1 PMs | XXXXX | 1 members | [Access Controls](2.edit.md) | [[remove]]() |
