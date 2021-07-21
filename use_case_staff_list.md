@@ -14,5 +14,4 @@ he can only see the list of staff in the group he is in charge of, that is the T
 | clan |
 
 ### Reason 
-because he only has Read/Write Same group/Same Team permission &nbsp;
-→[See more](d1_leaders_role_group.md)
+because he only has Read/Write Same group/Same Team permission. [See more](d1_leaders_role_group.md)
