@@ -23,8 +23,7 @@ vkiet access to Staff List Page &nbsp;
 | hhoa | [edit]() |
 | nduy | [edit]() |
 
-- he can only see the list of staff in the group he is in charge of, that is the Ticket team and the Auction team &nbsp;
-(because he has Read/Write Same group/Same Team permission.)
+- he can only see the list of staff in the group he is in charge of, that is the Ticket team and the Auction team. Because he has Read/Write Same group/Same Team permission.
 - he can also edit the staff info of ngtan,nphong, ... nduy because has Write Same group/Same Team permission. 
 - of course he can also view & edit his own info.
 ## Reference 
