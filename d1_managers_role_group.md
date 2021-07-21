@@ -16,8 +16,8 @@
 
 | Resource | Read | Write | Scope | |
 | ---- | ---- | ---- | ---- | ---- |
-| Staff Management | &#9745; | &#9745; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select | [[remove]]() |
-| Team Management | &#9745; | &#9745; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select | [[remove]]() |
+| Staff Management | &#9745; | &#9745; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9673;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select | [[remove]]() |
+| Team Management | &#9745; | &#9745; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9673;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select | [[remove]]() |
 | [[Add]]() | | | |
 
 [[Save]]()
