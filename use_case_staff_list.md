@@ -16,5 +16,5 @@ he can only see the list of staff in the group he is in charge of, that is the T
 
 he can also edit the staff info of ngtan,nphong and clan because has Write Same group/Same Team permission. 
 
-## Referer 
+## Reference 
 [See more](d1_leaders_role_group.md)
