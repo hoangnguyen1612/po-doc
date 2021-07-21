@@ -1,8 +1,5 @@
-# ROLES GROUPS MANAGEMENT
+# ROLES GROUPS MANAGEMENT > LIST
 *list up all availables role groups*
-
-> **ROLE GROUPS  MANAGEMENT**
-* free keyword input
 
 [[+ New Group]](1.create.md)
 
