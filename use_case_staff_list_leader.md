@@ -8,8 +8,7 @@
 ttuan access to Staff List Page &nbsp;
 
 ### Then 
-he can only see the list of staff in the group he is in charge of, that is the Ticket team &nbsp;
-(because he only has Read/Write Same group/Same Team permission. )
+he can only see the list of staff in the group he is in charge of, that is the Ticket team. Because he only has Read/Write Same group/Same Team permission.
 | Staff List | Action
 | ---- | ---- |
 | ngtan | [edit]() |
