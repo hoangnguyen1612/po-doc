@@ -19,8 +19,8 @@
 | ---- | ---- | ---- | ---- |
 | Staff | &#9745; | &#9745; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 | Team | &#9745; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
-| Department | &#9745; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All  |
-| Competency | &#9745; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| Department | &#9745; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All  |
+| Competency | &#9745; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 | KRA | &#9744; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 | KPI | &#9744; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 
