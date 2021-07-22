@@ -5,7 +5,7 @@
 
 **Members**  
   
-&#9675;Member Select &nbsp;&nbsp;&#9675; Everyone  
+&#9673;Member Select &nbsp;&nbsp;&#9675; Everyone  
 *Below only in Member Select mode*  
 
 | Member |
