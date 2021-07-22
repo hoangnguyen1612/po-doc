@@ -14,12 +14,30 @@
 | vkiet |
 | nghoang |
 
-> **Access Controls**  
+**Access Controls**  
 
-| Resource | Read | Write | Scope | |
-| ---- | ---- | ---- | ---- | ---- |
-| Staff Management | &#9745; | &#9745; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select | [[remove]]() |
-| Team Management | &#9745; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select | [[remove]]() |
-| [[Add]]() | | | |
+**DATA RESOURCE**  
+
+| RESOURCE | READ | WRITE | SCOPE |
+| ---- | ---- | ---- | ---- |
+| Staff | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| Team | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| Department | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All  |
+| Competency | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| KRA | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| KPI | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+
+
+**CONFIG RESOURCE**  
+
+| RESOURCE | READ | WRITE |
+| ---- | ---- | ---- |
+| SkillPolicy | &#9744; | &#9744; |
+| Jobs | &#9744; | &#9744; |
+| Approve Routes | &#9744; | &#9744; |
+| Access Controls | &#9744; | &#9744;  |
+| Competency Setting | &#9744; | &#9744; |
+| KPI Setting | &#9744; | &#9744;  |
+| KRA Setting | &#9744; | &#9744; |
 
 [[Save]]()
