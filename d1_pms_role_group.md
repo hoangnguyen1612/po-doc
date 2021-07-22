@@ -31,7 +31,7 @@
 
 | RESOURCE | READ | WRITE |
 | ---- | ---- | ---- |
-| SkillPolicy | &#9745; | &#9744; |
+| SkillPolicy | &#9745; | &#9745; |
 | Jobs | &#9745; | &#9744; |
 | Approve Routes | &#9745; | &#9744; |
 | Access Controls | &#9745; | &#9744;  |
