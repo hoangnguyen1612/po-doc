@@ -1,4 +1,4 @@
-# Use Case Access to Skill Policy with the Staff role (ttuan or nghoang)
+# Use Case Access to Skill Policy with the Leader role (ttuan or nghoang)
 
 ## Prerequisites 
 - Logged in: ttuan or nghoang
