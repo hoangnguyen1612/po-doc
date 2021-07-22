@@ -34,4 +34,4 @@ bnguyen access to Staff List Page &nbsp;
 - he can also edit any the staff info in the company. 
 - of course he can also view & edit his own info.
 ## Reference 
-[See more](d1_managers_role_group.md)
+[See more](bod_role_group.md)
