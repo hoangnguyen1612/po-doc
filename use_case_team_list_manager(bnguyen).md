@@ -20,4 +20,4 @@ bnguyen access to Team List Page &nbsp;
 - he can only see all teams in the company. Because he has Write ALL permission, he can edit/remove any the team info. 
 
 ## Reference 
-[See more](d1_managers_role_group.md)
+[See more](bod_role_group.md)
