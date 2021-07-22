@@ -26,9 +26,12 @@ bnguyen access to Staff List Page &nbsp;
 | hhoa | [edit]() |
 | nduy | [edit]() |
 | ntam | [edit]() |
+| nduc | [edit]() |
+| dtho | [edit]() |
+| lcuong | [edit]() |
 
-- he can only see the list of staff of Department 1, that is the Ticket team, the Auction team and the Travel team. Because he has Read/Write Same department permission.
-- he can also edit the staff info of Department 1 because has Write Same department permission. 
+- he can see the info of all staffs in the company. Because he has ALL permission.
+- he can also edit any the staff info in the company. 
 - of course he can also view & edit his own info.
 ## Reference 
 [See more](d1_managers_role_group.md)
