@@ -22,3 +22,14 @@
   - [Any PM in Department 1](use_case_team_list_pm(vkiet).md)
 - Access team list by Manager role
   - [Manager](use_case_team_list_manager(bnguyen).md)
+
+# Config Resource 
+## Skill Policy 
+- Access Skill Policy by Staff role
+  - [Staff](use_case_skill_policy_staff(nhoang).md)
+- Access Skill Policy by Leader role
+  - [Any Leader in Department 1](use_case_skill_policy_leader(ttuan).md)
+- Access Skill Policy by PM role
+  - [Any PM in Department 1](use_case_skill_policy_pm(vkiet).md)
+- Access Skill Policy by Manager role
+  - [Manager](use_case_skill_policy_manager(bnguyen).md)
