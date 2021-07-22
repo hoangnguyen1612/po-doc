@@ -5,7 +5,7 @@
 
 **Members**  
   
-&#9673;Member Select &nbsp;&nbsp;&#9675; Everyone  
+&#9675;Member Select &nbsp;&nbsp;&#9675; Everyone  
 *Below only in Member Select mode*  
 
 | Member |
@@ -20,11 +20,11 @@
 
 | RESOURCE | READ | WRITE | SCOPE |
 | ---- | ---- | ---- | ---- |
-| Staff | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| Staff | &#9744; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 | Team | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 | Department | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All  |
-| Competency | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
-| KRA | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| Competency | &#9744; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
+| KRA | &#9744; | &#9744; | &#9675;&nbsp;Owner&nbsp;&nbsp;&#9673;&nbsp;Same Group/Team&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 | KPI | &#9744; | &#9744; | &#9673;&nbsp;Owner&nbsp;&nbsp;&#9675;&nbsp;Same Department&nbsp;&nbsp;&#9675;&nbsp;Select&nbsp;&nbsp;&#9675;&nbsp;All |
 
 
