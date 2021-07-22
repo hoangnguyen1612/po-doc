@@ -17,9 +17,8 @@
 - Access team list by Staff role
   - [Staff](use_case_team_list_staff(nhoang).md)
 - Access team list by Leader role
-  - [Leader of Ticket team](use_case_team_list_leader(ttuan).md)
-  - [Leader of Travel team](use_case_team_list_leader(nghoang).md)
+  - [Any Leader in Department 1](use_case_team_list_leader(ttuan).md)
 - Access team list by PM role
-  - [Any PM in Department 1](use_case_team_list_pm(vkiet).md)
+  - [Specific PM](use_case_team_list_pm(vkiet).md)
 - Access team list by Manager role
   - [Manager](use_case_team_list_manager(bnguyen).md)
