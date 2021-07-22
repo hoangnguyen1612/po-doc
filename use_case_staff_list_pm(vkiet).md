@@ -1,11 +1,11 @@
-# Use Case Access to Staff List with the PM role (vkiet)
+# Use Case Access to Staff List with the PM role (vkiet or nganh)
 
 ## Prerequisites 
-- Logged in: vkiet 
+- Logged in: vkiet or nganh
 
 ## Scenario 
 ### When
-vkiet access to Staff List Page &nbsp;
+vkiet or nganh access to Staff List Page &nbsp;
 
 ### Then 
 | Staff List | Action
@@ -22,9 +22,12 @@ vkiet access to Staff List Page &nbsp;
 | ngkim | [edit]() |
 | hhoa | [edit]() |
 | nduy | [edit]() |
+| nganh | [edit]() |
+| nghoang | [edit]() |
+| ntam | [edit]() |
 
-- he can only see the list of staff in the group he is in charge of, that is the Ticket team and the Auction team. Because he has Read/Write Same group/Same Team permission.
-- he can also edit the staff info of ngtan,nphong, ... nduy because has Write Same group/Same Team permission. 
+- he can only see all staff of Department 1. Because he has Read/Write "Same Department" permission.
+- he can also edit all staff of Department 1
 - of course he can also view & edit his own info.
 ## Reference 
 [See more](d1_pms_role_group.md)
