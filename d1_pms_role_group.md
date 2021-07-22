@@ -31,12 +31,12 @@
 
 | RESOURCE | READ | WRITE |
 | ---- | ---- | ---- |
-| SkillPolicy | &#9744; | &#9744; |
-| Jobs | &#9744; | &#9744; |
-| Approve Routes | &#9744; | &#9744; |
-| Access Controls | &#9744; | &#9744;  |
-| Competency Setting | &#9744; | &#9744; |
-| KPI Setting | &#9744; | &#9744;  |
-| KRA Setting | &#9744; | &#9744; |
+| SkillPolicy | &#9745; | &#9744; |
+| Jobs | &#9745; | &#9744; |
+| Approve Routes | &#9745; | &#9744; |
+| Access Controls | &#9745; | &#9744;  |
+| Competency Setting | &#9745; | &#9744; |
+| KPI Setting | &#9745; | &#9744;  |
+| KRA Setting | &#9745; | &#9744; |
 
 [[Save]]()
