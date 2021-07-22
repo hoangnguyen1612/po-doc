@@ -30,7 +30,7 @@ bnguyen access to Staff List Page &nbsp;
 | dtho | [edit]() |
 | lcuong | [edit]() |
 
-- he can see the info of all staffs in the company. Because he has ALL permission.
+- he can see the info of all staffs in the company. Because he has Write ALL permission.
 - he can also edit any the staff info in the company. 
 - of course he can also view & edit his own info.
 ## Reference 
