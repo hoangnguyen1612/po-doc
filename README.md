@@ -19,6 +19,6 @@
 - Access team list by Leader role
   - [Any Leader in Department 1](use_case_team_list_leader(ttuan).md)
 - Access team list by PM role
-  - [Specific PM](use_case_team_list_pm(vkiet).md)
+  - [Any PM in Department 1](use_case_team_list_pm(vkiet).md)
 - Access team list by Manager role
   - [Manager](use_case_team_list_manager(bnguyen).md)
