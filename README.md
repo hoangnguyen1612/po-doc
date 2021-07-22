@@ -3,6 +3,8 @@
 # Resource 
 
 ## Staff 
+- Access staff list by Staff role
+  - [Staff](use_case_staff_list_staff(nhoang).md)
 - Access staff list by Leader role
   - [Leader of Ticket team](use_case_staff_list_leader(ttuan).md)
   - [Leader of Travel team](use_case_staff_list_leader(nghoang).md)
