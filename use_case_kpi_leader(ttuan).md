@@ -16,4 +16,4 @@ ttuan or nghoang access to KPI page &nbsp;
 
 - Because he has Read Same Department role, he can see KPI of all teams in Department 1. But he cant edit any the KPI.
 ## Reference 
-[See more](d1_leader_role_group.md)
+[See more](d1_leaders_role_group.md)
