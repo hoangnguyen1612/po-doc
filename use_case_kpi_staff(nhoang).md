@@ -12,5 +12,7 @@ nhoang access to KPI page &nbsp;
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | FY21-Q1 | 2021/01/01&ensp;&ensp;&ensp;&ensp;| 2021/03/31&ensp;&ensp;&ensp;&ensp;| 20 | TICKET&ensp;&ensp; | Yes  | None |
 
+- because he only has Read Owner permission he can only see his team's KPI.
+
 ## Reference 
 [See more](d1_staff_role_group.md)
