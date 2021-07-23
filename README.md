@@ -23,6 +23,16 @@
 - Access team list by Manager role
   - [Manager](use_case_team_list_manager(bnguyen).md)
 
+## KPI
+- Access KPI by Staff role
+  - [Staff](use_case_kpi_staff(nhoang).md)
+- Access KPI by Leader role
+  - [Any Leader in Department 1](use_case_kpi_leader(ttuan).md)
+- Access KPI by PM role
+  - [Any PM in Department 1](use_case_kpi_pm(vkiet).md)
+- Access KPI by Manager role
+  - [Manager](use_case_kpi_manager(bnguyen).md)
+
 # Config Resource 
 ## Skill Policy 
 - Access Skill Policy by Staff role
