@@ -33,7 +33,7 @@
 - Access KPI by Manager role
   - [Manager](use_case_kpi_manager(bnguyen).md)
 - Access KPI by PQM role
-  - [Manager](use_case_kpi_pqm(ngthy).md)
+  - [PQM](use_case_kpi_pqm(ngthy).md)
 
 # Config Resource 
 ## Skill Policy 
